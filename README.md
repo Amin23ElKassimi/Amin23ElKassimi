@@ -16,7 +16,7 @@
 
 ```js
 "use creativity";
-import { Person } from "Italy/Morocco";
+import { Person } from "Italy/Morocco 	U+1F1F2 U+1F1E6	&#127474 &#127462";
 
 new Person({
   name: "Amin El Kassimi",
