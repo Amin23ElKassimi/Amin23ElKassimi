@@ -15,7 +15,7 @@
 </picture>
 
 ```js
-"use creativity";
+"Use creativity";
 import { Person } from "Italy/Morocco 	U+1F1F2 U+1F1E6	&#127474 &#127462";
 
 new Person({
@@ -52,7 +52,7 @@ Hi, my name is Amin El Kassimi, I'm a Full Stack Developer from Rome.
 <img src="https://skillicons.dev/icons?i=js,php,ts,vue,angular,nodejs,npm,linux,laravel,mysql,sass,git,vscode,figma,bootstrap,vite,arduino,postman&perline=6" />
 </a>
 </p>
-
+<i class="flag flag-morocco"></i>
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
