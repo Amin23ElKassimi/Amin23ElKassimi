@@ -22,7 +22,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a>
-<a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/271/444/png-transparent-angular-icon-hd-logo.png" alt="vuejs" width="40" height="40"/></a>
+<a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="[https://w7.pngwing.com/pngs/271/444/png-transparent-angular-icon-hd-logo.png](https://cdn.freebiesupply.com/logos/large/2x/angular-icon-logo-png-transparent.png)" alt="vuejs" width="40" height="40"/></a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://pluspng.com/img-png/bootstrap-logo-vector-png-bem-with-bootstrap-bootstrap-logo-1024.png" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
