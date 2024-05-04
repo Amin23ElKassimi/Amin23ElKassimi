@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Amin</h1>
 <h3 align="center">A passionate WEB Development and Automation Sytems</h3>
 
-- 🔭 I’m currently working on Roistar
+- 🔭 I’m currently working on <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>Roistar
 
 - 🌱 I’m currently learning **Laravel-MySQL-Vuejs**
 
