@@ -61,11 +61,6 @@ Hi, my name is Amin El Kassimi, I'm a Full Stack Developer from Rome.
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
-<div align="center">
-
-<!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
-
 ![Commit Snake History SVG](https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake.svg)
 
 <!--x axis divider-->
