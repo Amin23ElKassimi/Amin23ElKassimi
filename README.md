@@ -16,60 +16,25 @@
 
 ```js
 "use creativity";
-import { Person } from 'indonesia';
+import { Person } from "Italy/Morocco";
 
 new Person({
-    name   : 'Deri Kurniawan',
-    title  : 'Full Stack Developer',
-    email  : 'deri.netuchi@gmail.com',
-    website: 'https://deri.my.id',
-    married: !!!true,
+  name: "Amin El Kassimi",
+  title: "JR Full Stack Developer",
+  email: "aminelkassimi01@gmail.com",
+  married: !!!false,
 }).introduce();
 ```
 
 ```cmd
 D:\Deri-Kurniawan> node index.js
-Hi, my name is Deri Kurniawan, I'm a Full Stack Developer from Indonesia.
+Hi, my name is Amin El Kassimi, I'm a Full Stack Developer from Rome.
 ```
 
 <div align="center">
 
-[![wakatime](https://wakatime.com/badge/user/22520ecf-cee6-4d59-a21f-b5d7f4f8e491.svg)](https://wakatime.com/@22520ecf-cee6-4d59-a21f-b5d7f4f8e491) ![Followers](https://img.shields.io/github/followers/Deri-Kurniawan?label=Followers) ![Stars](https://img.shields.io/github/stars/Deri-Kurniawan?label=Stars)
-
-<!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                585 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
-🌆 Daytime                2389 commits        ███████████░░░░░░░░░░░░░░   43.37 % 
-🌃 Evening                1881 commits        █████████░░░░░░░░░░░░░░░░   34.14 % 
-🌙 Night                  654 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-TypeScript               11 hrs 47 mins      █████████████████░░░░░░░░   69.50 % 
-CSS                      4 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   24.52 % 
-Markdown                 33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
-JSON                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
-reStructuredText         8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
-
-🔥 Editors: 
-VS Code                  16 hrs 58 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  16 hrs 58 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 03-05-2024 17:18:23 UTC
 <!--END_SECTION:waka-->
-  
+
 </div>
 
 <!--x axis divider-->
@@ -99,7 +64,7 @@ Windows                  16 hrs 58 mins      ███████████�
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
-<h3 align="center">⭐My Favorite Repo⭐</h3>
+<!-- <h3 align="center">⭐My Favorite Repo⭐</h3>
 
 <div>
   <p align="center">
@@ -112,16 +77,7 @@ Windows                  16 hrs 58 mins      ███████████�
     	<a href="https://github.com/Deri-Kurniawan/plant_shop_mobile_app">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=plant_shop_mobile_app&theme=transparent" alt="GitHub Stats" />
     	</a>
-    	<a href="https://github.com/Deri-Kurniawan/derizer">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=derizer&theme=transparent" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/Deri-Kurniawan/screen-recorder-online">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=screen-recorder-online&theme=transparent" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/Deri-Kurniawan/mini-framework">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=mini-framework&theme=transparent" alt="GitHub Stats" />
-    	</a>
-</div>
+</div> -->
 
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
@@ -135,14 +91,11 @@ Windows                  16 hrs 58 mins      ███████████�
 [![image](https://img.shields.io/badge/Dribble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://bitlie.deri.my.id/dribbble)
 [![image](https://img.shields.io/badge/Stack%20Overflow-EF8236?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://bitlie.deri.my.id/stackoverflow)
 [![image](https://img.shields.io/badge/UIverse-04A4FB?style=for-the-badge&logo=brave&logoColor=white)](https://bitlie.deri.my.id/uiverse)
-  
+
 </div>
 
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
-
-<!-- Support me -->
-<h3 align="center">☕Support Me☕</h3>
 
 <div align="center">
   
@@ -157,7 +110,7 @@ Windows                  16 hrs 58 mins      ███████████�
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
 <div align="center">
-    Made with ❤️ by <a href="https://deri.my.id" target="_blank">Deri Kurniawan</a>
+    Made with ❤️ by <a href="https://github.com/Amin23ElKassimi" target="_blank">Amin El Kassimi</a>
 </div>
 
 <!--x axis divider-->
