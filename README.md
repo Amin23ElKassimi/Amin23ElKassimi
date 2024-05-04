@@ -27,7 +27,7 @@ new Person({
 ```
 
 ```cmd
-D:\Deri-Kurniawan> node index.js
+C:\user23> node index.js
 Hi, my name is Amin El Kassimi, I'm a Full Stack Developer from Rome.
 ```
 
