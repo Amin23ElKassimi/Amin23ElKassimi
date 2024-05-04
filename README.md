@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on <a href="https://roistar.it/" target="_blank" rel="noreferrer"> <img src="https://roistar.it/wp-content/uploads/2023/04/Logo-Roistar-2k.png" alt="vuejs" width="110" height="50"/></a>
 
-- 🌱 I’m currently learning **Laravel-MySQL-Vuejs**
+- 🌱 I’m currently learning **Laravel-MySQL-Vuejs-Angular**
 
 - 👯 I’m looking to collaborate on **Start-Up**
 
