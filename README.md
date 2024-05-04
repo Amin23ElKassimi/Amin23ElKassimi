@@ -15,7 +15,7 @@
 </picture>
 
 ```js
-"use creativity";
+"Use creativity";
 import { Person } from "Italy/Morocco";
 
 new Person({
@@ -27,7 +27,7 @@ new Person({
 ```
 
 ```cmd
-C:\user23> node index.js
+C:\user-23> node index.js
 Hi, my name is Amin El Kassimi, I'm a junior Full Stack Developer from Rome.
 I discovered programming at school at the age of 15 thanks to Arduino. During the last years of school, I became passionate about automation, particularly industrial automation. So after finishing school, I started my career as a PLC programmer, which lasted almost 4 years. I traveled extensively throughout Europe, even reaching the United States thanks to this job. It was precisely in the United States where I discovered my passion for web development. Upon returning from the United States, I enrolled in a 6-month academy that provided me with the basics of HTML, CSS, JavaScript, PHP, SQL, and taught me how to learn to use frameworks and libraries such as Laravel, Vue, and Bootstrap. Currently, I work for a company that manufactures AI-based management systems for pharmacies.".  
 ```
