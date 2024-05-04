@@ -49,7 +49,7 @@ Hi, my name is Amin El Kassimi, I'm a Full Stack Developer from Rome.
 <!--tech stack icons-->
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=js,php,ts,vue,nextjs,tailwindcss,nodejs,express,laravel,mysql,planetscale,git,vscode,figma,bootstrap,vite,cloudflare,prisma&perline=6" />
+<img src="https://skillicons.dev/icons?i=js,php,ts,vue,nextjs,tailwindcss,nodejs,express,laravel,mysql,planetscale,git,vscode,figma,bootstrap,vite,php,prisma&perline=6" />
 </a>
 </p>
 
