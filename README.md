@@ -1,38 +1,164 @@
-<h1 align="center">Hey 👋, I'm Amin</h1>
-<h3 align="center">A passionate WEB Development and Automation Sytems</h3>
+<!--
+- !! Thank you for keeping this sign !!
+- Original Creation by Deri Kurniawan (Deri-Kurniawan)
+- Github Repository: https://github.com/Deri-Kurniawan/Deri-Kurniawan
+- ⭐ Don't forget to give a star ⭐
+-->
 
-- 🔭 I’m currently working on <a href="https://roistar.it/" target="_blank" rel="noreferrer"> <img src="https://roistar.it/wp-content/uploads/2023/04/Logo-Roistar-2k.png" alt="vuejs" width="110" height="50"/></a>
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
 
-- 🌱 I’m currently learning **Laravel-MySQL-Vuejs-Angular**
+<picture> 
+<a href="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer">
+<img src="/assets//images/developer.webp" align="right" width="350">
+</a>
+</picture>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Amin23ElKassimi?tab=repositories](https://github.com/Amin23ElKassimi?tab=repositories)
+```js
+"use creativity";
+import { Person } from 'indonesia';
 
-- 💬 Ask me about **@PHP @JS @SASS @CSS @HTML @Bootstrap**
+new Person({
+    name   : 'Deri Kurniawan',
+    title  : 'Full Stack Developer',
+    email  : 'deri.netuchi@gmail.com',
+    website: 'https://deri.my.id',
+    married: !!!true,
+}).introduce();
+```
 
-- 📫 How to reach me **aminelkassimi01@gmail.com**
+```cmd
+D:\Deri-Kurniawan> node index.js
+Hi, my name is Deri Kurniawan, I'm a Full Stack Developer from Indonesia.
+```
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amin-el-kassimi-30a589228/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/aminem_el/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aminem_el's profile picture aminem_el" height="30" width="40" /></a>
+<div align="center">
+
+[![wakatime](https://wakatime.com/badge/user/22520ecf-cee6-4d59-a21f-b5d7f4f8e491.svg)](https://wakatime.com/@22520ecf-cee6-4d59-a21f-b5d7f4f8e491) ![Followers](https://img.shields.io/github/followers/Deri-Kurniawan?label=Followers) ![Stars](https://img.shields.io/github/stars/Deri-Kurniawan?label=Stars)
+
+<!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                585 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
+🌆 Daytime                2389 commits        ███████████░░░░░░░░░░░░░░   43.37 % 
+🌃 Evening                1881 commits        █████████░░░░░░░░░░░░░░░░   34.14 % 
+🌙 Night                  654 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+TypeScript               11 hrs 47 mins      █████████████████░░░░░░░░   69.50 % 
+CSS                      4 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   24.52 % 
+Markdown                 33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+JSON                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+reStructuredText         8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+
+🔥 Editors: 
+VS Code                  16 hrs 58 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  16 hrs 58 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 03-05-2024 17:18:23 UTC
+<!--END_SECTION:waka-->
+  
+</div>
+
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h3 style="display: inline-block">🧑‍💻Frequently Used Tech🧑‍💻</h3></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=js,php,ts,react,nextjs,tailwindcss,nodejs,express,laravel,mysql,planetscale,git,vscode,figma,vercel,vite,cloudflare,prisma&perline=6" />
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a>
-<a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/large/2x/angular-icon-logo-png-transparent.png" alt="vuejs" width="40" height="40"/></a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://pluspng.com/img-png/bootstrap-logo-vector-png-bem-with-bootstrap-bootstrap-logo-1024.png" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://www.freepnglogos.com/uploads/javascript-png/png-javascript-badge-picture-8.png" alt="javascript" width="40" height="40"/> </a>
- <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
- <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://logospng.org/download/laravel/logo-laravel-icon-1024.png" alt="laravel" width="40" height="40"/><a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"alt="mysql" width="40" height="40"/></a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="http://pngimg.com/uploads/photoshop/photoshop_PNG7.png" alt="photoshop" width="40" height="40"/></a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
-</p>
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
+
+<h3 align="center">🔥Streak Stats🔥</h3>
+
+<!-- custom streak stats: https://git.io/streak-stats -->
+<p align="center"><img src="https://streak-stats.demolab.com?user=Deri-Kurniawan&hide_border=true&type=png" alt="Deri-Kurniawan" /></p>
+
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
+
+<h3 align="center">⭐My Favorite Repo⭐</h3>
+
+<div>
+  <p align="center">
+	<a href="https://github.com/Deri-Kurniawan/windows-11-os">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=windows-11-os&theme=transparent" alt="GitHub Stats" />
+    	</a>
+	    <a href="https://github.com/Deri-Kurniawan/3d-portfolio">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=3d-portfolio&theme=transparent" alt="GitHub Stats" />
+    	</a>
+    	<a href="https://github.com/Deri-Kurniawan/plant_shop_mobile_app">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=plant_shop_mobile_app&theme=transparent" alt="GitHub Stats" />
+    	</a>
+    	<a href="https://github.com/Deri-Kurniawan/derizer">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=derizer&theme=transparent" alt="GitHub Stats" />
+    	</a>
+    	<a href="https://github.com/Deri-Kurniawan/screen-recorder-online">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=screen-recorder-online&theme=transparent" alt="GitHub Stats" />
+    	</a>
+    	<a href="https://github.com/Deri-Kurniawan/mini-framework">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=mini-framework&theme=transparent" alt="GitHub Stats" />
+    	</a>
+</div>
+
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
+
+<!-- Connect with me -->
+<h3 align="center">🤝Connect with Me🤝</h3>
+<div align="center">
+
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://bitlie.deri.my.id/linkedin)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://bitlie.deri.my.id/instagram)
+[![image](https://img.shields.io/badge/Dribble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://bitlie.deri.my.id/dribbble)
+[![image](https://img.shields.io/badge/Stack%20Overflow-EF8236?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://bitlie.deri.my.id/stackoverflow)
+[![image](https://img.shields.io/badge/UIverse-04A4FB?style=for-the-badge&logo=brave&logoColor=white)](https://bitlie.deri.my.id/uiverse)
+  
+</div>
+
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
+
+<!-- Support me -->
+<h3 align="center">☕Support Me☕</h3>
+
+<div align="center">
+  
+[![image](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://bitlie.deri.my.id/buymeacoffee) [![image](https://img.shields.io/badge/ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bitlie.deri.my.id/ko-fi)
+
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
+
+![Commit Snake History SVG](https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake.svg)
+
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
+
+<div align="center">
+    Made with ❤️ by <a href="https://deri.my.id" target="_blank">Deri Kurniawan</a>
+</div>
+
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
