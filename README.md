@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Amin</h1>
 <h3 align="center">A passionate WEB Development and Automation Sytems</h3>
 
-- 🔭 I’m currently working on <a href="https://roistar.it/" target="_blank" rel="noreferrer"> <img src="https://roistar.it/wp-content/uploads/2023/04/Logo-Roistar-2k.png" alt="vuejs" width="100" height="50"/></a>
+- 🔭 I’m currently working on <a href="https://roistar.it/" target="_blank" rel="noreferrer"> <img src="https://roistar.it/wp-content/uploads/2023/04/Logo-Roistar-2k.png" alt="vuejs" width="110" height="50"/></a>
 
 - 🌱 I’m currently learning **Laravel-MySQL-Vuejs**
 
