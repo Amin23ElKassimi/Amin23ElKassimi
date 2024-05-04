@@ -58,41 +58,6 @@ Hi, my name is Amin El Kassimi, I'm a Full Stack Developer from Rome.
 
 <h3 align="center">🔥Streak Stats🔥</h3>
 
-<!-- custom streak stats: https://git.io/streak-stats -->
-<p align="center"><img src="https://streak-stats.demolab.com?user=Deri-Kurniawan&hide_border=true&type=png" alt="Deri-Kurniawan" /></p>
-
-<!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
-
-<!-- <h3 align="center">⭐My Favorite Repo⭐</h3>
-
-<div>
-  <p align="center">
-	<a href="https://github.com/Deri-Kurniawan/windows-11-os">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=windows-11-os&theme=transparent" alt="GitHub Stats" />
-    	</a>
-	    <a href="https://github.com/Deri-Kurniawan/3d-portfolio">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=3d-portfolio&theme=transparent" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/Deri-Kurniawan/plant_shop_mobile_app">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=plant_shop_mobile_app&theme=transparent" alt="GitHub Stats" />
-    	</a>
-</div> -->
-
-<!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
-
-<!-- Connect with me -->
-<h3 align="center">🤝Connect with Me🤝</h3>
-<div align="center">
-
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://bitlie.deri.my.id/linkedin)
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://bitlie.deri.my.id/instagram)
-[![image](https://img.shields.io/badge/Dribble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://bitlie.deri.my.id/dribbble)
-[![image](https://img.shields.io/badge/Stack%20Overflow-EF8236?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://bitlie.deri.my.id/stackoverflow)
-[![image](https://img.shields.io/badge/UIverse-04A4FB?style=for-the-badge&logo=brave&logoColor=white)](https://bitlie.deri.my.id/uiverse)
-
-</div>
 
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
