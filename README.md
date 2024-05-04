@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Laravel-MySQL-Vuejs-Angular**
 
-- 👯 I’m looking to collaborate on **Start-Up**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Amin23ElKassimi?tab=repositories](https://github.com/Amin23ElKassimi?tab=repositories)
 
 - 💬 Ask me about **@PHP @JS @SASS @CSS @HTML @Bootstrap**
