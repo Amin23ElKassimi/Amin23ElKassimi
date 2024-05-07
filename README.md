@@ -16,13 +16,13 @@
 
 ```js
 "Use creativity";
-import { Person } from "Morocco";
+import { Person } from "Italy";
 
 new Person({
   name: "Amin El Kassimi",
   title: "JR Full Stack Developer",
   email: "aminelkassimi01@gmail.com",
-  married: !!!false,
+  senior: false,
 }).introduce();
 ```
 
