@@ -57,11 +57,6 @@ I discovered programming at school at the age of 15 thanks to Arduino. During th
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
-<h3 align="center">🔥Streak Stats🔥</h3>
-
-<!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
-
 ![Commit Snake History SVG](https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake.svg)
 
 <!--x axis divider-->
