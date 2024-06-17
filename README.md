@@ -22,7 +22,7 @@ new Person({
   name: "Amin El Kassimi",
   title: "JR Full Stack Developer",
   email: "aminelkassimi01@gmail.com",
-  senior: false,
+  linkedin: https://www.linkedin.com/in/amin-el-kassimi-30a589228/,
 }).introduce();
 ```
 
