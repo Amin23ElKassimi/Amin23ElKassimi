@@ -50,7 +50,7 @@ I discovered programming at school at the age of 15 thanks to Arduino. During th
 <!--tech stack icons-->
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=js,php,ts,vue,angular,nodejs,npm,linux,laravel,mysql,sass,git,vscode,figma,bootstrap,vite,notion,postman&perline=6" />
+<img src="https://skillicons.dev/icons?i=js,php,ts,vue,angular,nodejs,npm,linux,laravel,mysql,sass,git,vscode,java,bootstrap,vite,notion,postman&perline=6" />
 </a>
 </p>
 
