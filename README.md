@@ -57,7 +57,7 @@ Hi, my name is Amin El Kassimi, I'm a junior Full Stack Developer from Rome.
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
 <div align="center">
-    Made with ❤️ by <a href="https://github.com/Amin23ElKassimi" target="_blank">Amin El Kassimi</a>
+    Copy Paste with ❤️ by <a href="https://github.com/Amin23ElKassimi" target="_blank">Amin El Kassimi</a>
 </div>
 
 <!--x axis divider-->
