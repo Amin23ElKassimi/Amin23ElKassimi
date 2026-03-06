@@ -13,15 +13,20 @@ import { Person } from "Italy";
 
 new Person({
   name: "Amin El Kassimi",
-  title: "JR Full Stack Developer",
-  email: "aminelkassimi01@gmail.com",
-  gender: "Male",
+  title: "Automation Engineer | Full Stack Developer | Cybersecurity Consulant",
+  interests: [
+    "OT/ICS Security",
+    "Industrial Automation",
+    "Web Application Security",
+    "Linux Systems",
+    "Networking"
+  ],
 }).introduce();
 ```
 
 ```cmd
-C:\user-24> node index.js
-Hi, my name is Amin El Kassimi, I'm a junior Full Stack Developer from Rome.
+C:\user-25> node index.js
+I'm an Automation Engineer and Full Stack Developer, currently specializing in Cybersecurity & Ethical Hacking.
 ```
 
 <div align="center">
