@@ -2,7 +2,7 @@
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
 <picture> 
-<a href="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer">
+<a href="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Developer">
 <img src="/assets//images/developer.webp" align="right" width="350">
 </a>
 </picture>
